@@ -3,4 +3,4 @@
 
 #but dont ignore
 !.gitignore
-!/src
+!src
