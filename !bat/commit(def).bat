@@ -1,2 +1,2 @@
 cd ../
-git commit -m "Updated mod" -a
+git commit -m "Some changes here..." -a
