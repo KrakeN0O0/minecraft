@@ -1,5 +1,4 @@
 #ignore
-.git/
 .gradle/
 .idea/
 build/
