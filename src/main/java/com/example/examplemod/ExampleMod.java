@@ -20,6 +20,7 @@ public class ExampleMod
         //kek
         System.out.println("DIRT BLOCK >> "+Blocks.dirt.getUnlocalizedName());
         System.out.println("DIRT BLOCK >> "+Blocks.dirt.getUnlocalizedName());
+        System.out.println("DIRT BLOCK >> "+Blocks.dirt.getUnlocalizedName());
         //giy
 
     }
