@@ -1,4 +1,8 @@
 #ignore
+.git/
+.gradle/
+.idea/
+build/
 eclipse/
 gradle/
 out/
