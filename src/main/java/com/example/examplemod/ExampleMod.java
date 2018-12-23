@@ -21,6 +21,7 @@ public class ExampleMod
         System.out.println("DIRT BLOCK >> "+Blocks.dirt.getUnlocalizedName());
         System.out.println("DIRT BLOCK >> "+Blocks.dirt.getUnlocalizedName());
         System.out.println("DIRT BLOCK >> "+Blocks.dirt.getUnlocalizedName());
+        //test
         //giy
 
     }
