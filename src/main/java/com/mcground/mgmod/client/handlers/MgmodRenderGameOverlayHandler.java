@@ -31,8 +31,9 @@ public class MgmodRenderGameOverlayHandler extends Gui {
         GL11.glDisable(2896);
         this.mc.getTextureManager().bindTexture(ResReg.statBar);
         GL11.glEnable(3553);
-        this.drawTexturedModalRect(-1, -2, 0, 0, 256, 256);
         GL11.glScalef(1.0047F, 0.1F, 0.1F);
+        this.drawTexturedModalRect(-1, -2, 0, 0, 256, 256);
+        GL11.glScalef(1.0F, 10.0F, 10.0F);
         GL11.glPopMatrix();
     }
 }
