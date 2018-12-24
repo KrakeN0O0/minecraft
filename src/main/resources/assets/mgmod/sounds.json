@@ -1,0 +1,82 @@
+{
+        "zip":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:zip1", "mgmod:zip2", "mgmod:zip3", "mgmod:zip4", "mgmod:zip5", "mgmod:zip6" ]
+      },
+        "weapon_ak74":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_ak74"]
+      },
+        "weapon_ak74_reload":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_ak74_reload"]
+      },
+        "weapon_m4a1":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_m4a1"]
+      },
+        "weapon_m4a1_reload":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_m4a1_reload"]
+      },
+        "weapon_colt":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_colt"]
+      },
+        "weapon_colt_reload":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_colt_reload"]
+      },
+        "weapon_glock19":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_glock19"]
+      },
+        "weapon_glock19_reload":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_glock19_reload"]
+      },
+        "weapon_mosino":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_mosino"]
+      },
+        "weapon_mosino_reload":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_mosino_reload"]
+      },
+        "weapon_akm":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_akm"]
+      },
+        "weapon_akm_reload":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_akm_reload"]
+      },
+        "weapon_izh43":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_izh43"]
+      },
+        "weapon_izh43_reload":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_izh43_reload"]
+      },
+        "weapon_empty":
+      {
+        "category" : "player",
+        "sounds" : [ "mgmod:weapon_empty"]
+      }
+}
