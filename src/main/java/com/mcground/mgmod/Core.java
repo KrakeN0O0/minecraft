@@ -22,8 +22,8 @@ public class Core
     @Mod.Instance("mgmod")
     public static Core instance;
     @SidedProxy(
-            clientSide = "com.mcground.mgmod.rpg.client.ClientProxy",
-            serverSide = "com.mcground.mgmod.rpg.common.CommonProxy"
+            clientSide = "com.mcground.mgmod.client.ClientProxy",
+            serverSide = "com.mcground.mgmod.common.CommonProxy"
     )
     public static CommonProxy proxy;
 
