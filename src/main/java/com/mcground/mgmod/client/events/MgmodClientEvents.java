@@ -18,6 +18,7 @@ public class MgmodClientEvents {
         if (event instanceof RenderGameOverlayEvent.Text && !this.mc.gameSettings.showDebugInfo) {
             // Здесь рендерить события из MgmodRenderGameOverlayHandler
             this.overlay.MgmodRenderGameOverlayHandler(mc);// init переменных
+            this.overlay.renderStatBar(event);
         }
     }
 
